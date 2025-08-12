@@ -1,5 +1,5 @@
 <h1 align=center> <b><i>React Events Demo App for React Query (TanStack Query)</i></b></h1>
-<h3 align=center> <b><i>Practicing React Query, dynamic query functions, useMutation(), invalidating queries, etc. 👍</i></b></h3>
+<h3 align=center> <b><i>Practicing React Query, dynamic query functions, useMutation(), & invalidateQueries() 👍</i></b></h3>
 
 [React Events App](https://react-query-pem4.onrender.com)
 
