@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+#Snapshots
+react-query-tanstack-1.jpg
+react-query-tanstack-2.jpg
+react-query-tanstack-3.jpg
+react-query-tanstack-4.jpg
+react-query-tanstack-5.jpg
